@@ -1,1 +1,1 @@
-# apple-stock-price-EDA-and-prediction
+# Apple Stock Price EDA and Prediction
